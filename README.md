@@ -1,7 +1,6 @@
 # Painting with AI
 
 Building AI course project
-
 ##Summary
 This Building AI course project explores how artificial intelligence can be used to generate or assist in creating digital paintings. The idea is to help users express creativity by using AI tools that transform ideas or sketches into artistic images.
 
