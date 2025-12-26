@@ -2,8 +2,10 @@
 
 Building AI course project
 
-##Summary
-This Building AI course project explores how artificial intelligence can be used to generate or assist in creating digital paintings. The idea is to help users express creativity by using AI tools that transform ideas or sketches into artistic images.
+## Summary
+This project is an AI-powered chatbot that helps users learn basic math and logic skills. 
+It uses Python and natural language processing to answer questions, give hints, and track user progress.
+
 
 ## Background
 Many people want to create art but lack technical drawing skills. AI can support creativity by generating visual content quickly and intuitively, making digital art more accessible.
