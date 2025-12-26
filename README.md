@@ -1,4 +1,4 @@
-# Painting with AI
+## Painting with AI
 
 Building AI course project
 
