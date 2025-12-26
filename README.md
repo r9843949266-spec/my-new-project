@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project develops a PetSpecies AI classifier that identifies cats and dogs using physical measurements like height and weight. It uses a neural network with a sigmoid activation function to provide probability-based predictions for animal shelter intake. This is a final project for the Building AI course project.
 
 
 ## Background
